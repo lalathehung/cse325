@@ -46,6 +46,31 @@ The additional record is:
 ## Part 2: Sales Summary Function
 
 ```csharp
+using Newtonsoft.Json;
+using System.Text;
+
+var currentDirectory = Directory.GetCurrentDirectory();
+var storesDirectory = Path.Combine(currentDirectory, "stores");
+
+var salesTotalDir = Path.Combine(currentDirectory, "salesTotalDir");
+Directory.CreateDirectory(salesTotalDir);
+
+var salesFiles = FindSalesFiles(storesDirectory);
+
+GenerateSalesSummary(
+    salesFiles,
+    Path.Combine(salesTotalDir, "sales-summary.txt")
+);
+
+IEnumerable<string> FindSalesFiles(string folderName)
+{
+    return Directory.EnumerateFiles(
+        folderName,
+        "sales.json",
+        SearchOption.AllDirectories
+    );
+}
+
 void GenerateSalesSummary(
     IEnumerable<string> salesFiles,
     string outputFile
@@ -84,6 +109,8 @@ void GenerateSalesSummary(
     Console.WriteLine(report.ToString());
     Console.WriteLine($"Report saved to: {outputFile}");
 }
+
+record SalesData(double Total);
 ```
 
 ### Generated Report
