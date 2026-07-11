@@ -1,0 +1,14 @@
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\bin\Debug\net8.0\HelloDotNet.exe
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\bin\Debug\net8.0\HelloDotNet.deps.json
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\bin\Debug\net8.0\HelloDotNet.runtimeconfig.json
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\bin\Debug\net8.0\HelloDotNet.dll
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\bin\Debug\net8.0\HelloDotNet.pdb
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\obj\Debug\net8.0\HelloDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\obj\Debug\net8.0\HelloDotNet.AssemblyInfoInputs.cache
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\obj\Debug\net8.0\HelloDotNet.AssemblyInfo.cs
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\obj\Debug\net8.0\HelloDotNet.csproj.CoreCompileInputs.cache
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\obj\Debug\net8.0\HelloDotNet.dll
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\obj\Debug\net8.0\refint\HelloDotNet.dll
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\obj\Debug\net8.0\HelloDotNet.pdb
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\obj\Debug\net8.0\HelloDotNet.genruntimeconfig.cache
+C:\Users\dleun\OneDrive\Desktop\Arthur's\cse325\HelloDotNet\obj\Debug\net8.0\ref\HelloDotNet.dll
